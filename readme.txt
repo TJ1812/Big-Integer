@@ -1,4 +1,4 @@
-This is my attempt to immitate the working of Big Integer library in java.
+This is my attempt to imitate the working of Big Integer library in java.
 
 The input will be a large number in form of a string that will be in base 10.
 I am essentially converting this number into a vary large base number and storing it in array. After that the problem boils down to operations on 2 arrays. I have also included various kinds of evaluations as well like postfix and infix.
